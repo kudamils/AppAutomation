@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>FindBugs Report</title>
+<style type="text/css">
+		.tablerow0 {
+			background: #EEEEEE;
+		}
+
+		.tablerow1 {
+			background: white;
+		}
+
+		.detailrow0 {
+			background: #EEEEEE;
+		}
+
+		.detailrow1 {
+			background: white;
+		}
+
+		.tableheader {
+			background: #b9b9fe;
+			font-size: larger;
+		}
+
+		.tablerow0:hover, .tablerow1:hover {
+			background: #aaffaa;
+		}
+
+		.priority-1 {
+		    color: red;
+		    font-weight: bold;
+		}
+		.priority-2 {
+		    color: orange;
+		    font-weight: bold;
+		}
+		.priority-3 {
+		    color: green;
+		    font-weight: bold;
+		}
+		.priority-4 {
+		    color: blue;
+		    font-weight: bold;
+		}
+		</style>
+<script type="text/javascript">
+			function toggleRow(elid) {
+				if (document.getElementById) {
+					element = document.getElementById(elid);
+					if (element) {
+						if (element.style.display == 'none') {
+							element.style.display = 'block';
+							//window.status = 'Toggle on!';
+						} else {
+							element.style.display = 'none';
+							//window.status = 'Toggle off!';
+						}
+					}
+				}
+			}
+		</script>
+</head>
+<body>
+<h1>
+<a href="http://findbugs.sourceforge.net">FindBugs</a> Report</h1>
+<h2>Project Information</h2>
+<p>Project: 
+		</p>
+<p>FindBugs version: 3.0.1</p>
+<p>Code analyzed:</p>
+<ul>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/CucumberRunner.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/util/WaitDeviceStf.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/MitraBukalapak.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSearchCustomerSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirCheckoutSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTokenListrikSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBusTicketSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSaldoSayaSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraPaketDataSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraAjakTemanWebSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBukaEmasSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraHubungiBukalapakSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSearchBarSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKontakPelangganSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraHubungiBukalapakWebSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraDaftarKontakSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKirimUangSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSaranaSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraWebViewSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraVoucherSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBPJSSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraRegistrationSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTambahSaldoPageSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraLoyaltyPointsSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraMediaPromosiSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraCheckoutSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTagihanListrikSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirRiwayatStokSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSerbuSeruSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraForgotPasswordSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraPulsaSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraAngsuranKreditSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraOTPSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraDetailTrxSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKeuntunganExtraSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/Hooks.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBuktiTransaksiSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirLaporanWarungSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirReceiptSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirTambahBarangSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraUbahPasswordSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTelkomSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTrainTicketSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraLoginSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraResetPasswordSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraAccountSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraPDAMSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraEvoucherSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraHomeSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKYCSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraGrosirSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBrandSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraProductRecomendationSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraEsamsatSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSpecialPromoSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraVoucherGameSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTrxListSteps.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/model/UserProfile.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/data/MitraData.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/data/APIData.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraPaketDataPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSearchBarPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/BasePage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKeuntunganExtraPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraAccountPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSearchCustomerPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraWebView.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraHubungiBukalapakPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/OnboardingPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTelkomPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraHomePage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraEsamsatPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBrandPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraOTPPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraCheckoutPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTrainTicketWebPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraDaftarKontakPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraUbahPasswordPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraRegistrationPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraProductRecomendationPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTambahSaldoPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraAngsuranKreditPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirReceiptPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraDevopsPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraAjakTemanWebPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBuktiTransaksiPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraHubungiBukalapakWebPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraOnBoardingPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraMediaPromosiPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirRiwayatStokPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirLaporanWarungPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraShoppingCartPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSerbuSeruPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSaldoSayaPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/ApiCall.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKirimUangPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraResetPasswordPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraPDAMPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSpecialPromoPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKYCPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraPulsaPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKontakPelangganPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTokenListrikPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSaranaPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBusTicketWebPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraVoucherGamePage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTrxListPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraGrosirPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTagihanListrikPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/LoginPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraVoucherPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraLoyaltyPointsPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBukaEmasPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraLoginPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirCheckoutPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraForgotPasswordPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBPJSPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraDetailTrxPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirDetailReceiptPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraEVoucherPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirPaymentPage.class</li>
+<li>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirTambahBarangPage.class</li>
+</ul>
+<p>
+<br/>
+<br/>
+</p>
+<h2>Metrics</h2>
+<p>8086 lines of code analyzed,
+	in 125 classes, 
+	in 7 packages.</p>
+<table width="500" cellpadding="5" cellspacing="2">
+<tr class="tableheader">
+<th align="left">Metric</th>
+<th align="right">Total</th>
+<th align="right">Density*</th>
+</tr>
+<tr class="tablerow0">
+<td>High Priority Warnings</td>
+<td align="right"/>
+<td align="right">0.00</td>
+</tr>
+<tr class="tablerow1">
+<td>Medium Priority Warnings</td>
+<td align="right"/>
+<td align="right">0.00</td>
+</tr>
+<tr class="$totalClass">
+<td>
+<b>Total Warnings</b>
+</td>
+<td align="right">
+<b>0</b>
+</td>
+<td align="right">
+<b>0.00</b>
+</td>
+</tr>
+</table>
+<p>
+<i>(* Defects per Thousand lines of non-commenting source statements)</i>
+</p>
+<p>
+<br/>
+<br/>
+</p>
+<h2>Contents</h2>
+<ul>
+<li>
+<a href="#Details">Details</a>
+</li>
+</ul>
+<h1>Summary</h1>
+<table width="500" cellpadding="5" cellspacing="2">
+<tr class="tableheader">
+<th align="left">Warning Type</th>
+<th align="right">Number</th>
+</tr>
+<tr class="tablerow0">
+<td>
+<b>Total</b>
+</td>
+<td align="right">
+<b>0</b>
+</td>
+</tr>
+</table>
+<h1>Warnings</h1>
+<p>Click on a warning row to see full context information.</p>
+<h1>
+<a name="Details">Details</a>
+</h1>
+</body>
+</html>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1" sequence="0" timestamp="1575466124537" analysisTimestamp="1575466124865" release="">
+  <Project projectName="">
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/CucumberRunner.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/util/WaitDeviceStf.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/MitraBukalapak.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSearchCustomerSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirCheckoutSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTokenListrikSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBusTicketSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSaldoSayaSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraPaketDataSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraAjakTemanWebSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBukaEmasSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraHubungiBukalapakSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSearchBarSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKontakPelangganSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraHubungiBukalapakWebSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraDaftarKontakSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKirimUangSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSaranaSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraWebViewSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraVoucherSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBPJSSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraRegistrationSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTambahSaldoPageSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraLoyaltyPointsSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraMediaPromosiSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraCheckoutSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTagihanListrikSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirRiwayatStokSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSerbuSeruSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraForgotPasswordSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraPulsaSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraAngsuranKreditSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraOTPSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraDetailTrxSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKeuntunganExtraSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/Hooks.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBuktiTransaksiSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirLaporanWarungSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirReceiptSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKasirTambahBarangSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraUbahPasswordSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTelkomSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTrainTicketSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraLoginSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraResetPasswordSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraAccountSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraPDAMSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraEvoucherSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraHomeSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraKYCSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraGrosirSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraBrandSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraProductRecomendationSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraEsamsatSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraSpecialPromoSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraVoucherGameSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/steps/MitraTrxListSteps.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/model/UserProfile.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/data/MitraData.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/data/APIData.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraPaketDataPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSearchBarPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/BasePage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKeuntunganExtraPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraAccountPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSearchCustomerPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraWebView.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraHubungiBukalapakPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/OnboardingPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTelkomPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraHomePage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraEsamsatPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBrandPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraOTPPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraCheckoutPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTrainTicketWebPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraDaftarKontakPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraUbahPasswordPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraRegistrationPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraProductRecomendationPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTambahSaldoPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraAngsuranKreditPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirReceiptPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraDevopsPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraAjakTemanWebPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBuktiTransaksiPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraHubungiBukalapakWebPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraOnBoardingPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraMediaPromosiPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirRiwayatStokPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirLaporanWarungPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraShoppingCartPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSerbuSeruPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSaldoSayaPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/ApiCall.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKirimUangPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraResetPasswordPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraPDAMPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSpecialPromoPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKYCPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraPulsaPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKontakPelangganPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTokenListrikPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraSaranaPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBusTicketWebPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraVoucherGamePage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTrxListPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraGrosirPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraTagihanListrikPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/LoginPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraVoucherPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraLoyaltyPointsPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBukaEmasPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraLoginPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirCheckoutPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraForgotPasswordPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraBPJSPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraDetailTrxPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirDetailReceiptPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraEVoucherPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirPaymentPage.class</Jar>
+    <Jar>/Users/emilefrancois/mitra-android-automation/build/classes/java/test/bukalapak/mitra/pages/MitraKasirTambahBarangPage.class</Jar>
+    <AuxClasspathEntry>/Users/emilefrancois/mitra-android-automation/libs/malbec.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/mitra-android-automation/libs/staid-openstf-client-2.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/mitra-android-automation/libs/salad-1.2.0-rc1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/fbb329b901f5569fa09b4a35e50916b92f8630a2/rest-assured-4.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.github.cdimascio/java-dotenv/5.1.1/6c5712d04751e707b9f925aab756302e74103f59/java-dotenv-5.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-java8/4.7.1/1b99dc0a8a2dbee417c26887db05fd1f689565bb/cucumber-java8-4.7.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-junit/4.7.1/5a141c6aae1801b32cb6be906bd4f4b967848b9b/cucumber-junit-4.7.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.rest-assured/xml-path/4.0.0/a72ba257e00c5110019e05536f9e1f471f3a6ead/xml-path-4.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.5.6/f0bcdf0705ac84ba6209de9fea9608150d28a194/groovy-xml-2.5.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.rest-assured/json-path/4.0.0/7e12d70fe9ae85288629943ad0e4603e1397229f/json-path-4.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.5.6/c342f6a4f72765085819f949a300c616f33d75c2/groovy-json-2.5.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured-common/4.0.0/455adb1fe3d3f9fc574d5808f6678c30c012784a/rest-assured-common-4.0.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.5.6/6936e700f0fb1b50bac0698ada4347a769d40199/groovy-2.5.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.3/889fd6d061bb63b99dd5c6aba35a555ae863de52/httpmime-4.5.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.3/d1577ae15f01ef5438c5afc62162457c00a34713/httpclient-4.5.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/2.1/42edeb45e615925992d79263e9e744a857cfbcd0/hamcrest-library-2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/2.1/70dd49dea4507315b1fa3bc1aa59b1442d55957a/hamcrest-core-2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.ccil.cowan.tagsoup/tagsoup/1.2.1/5584627487e984c03456266d3f8802eb85a9ce97/tagsoup-1.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/e24bd38de28a326cce8b1f0d61e809e9a92dad6a/kotlin-stdlib-1.3.41.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-java/4.7.1/b57ab2d5cc49ea537f437242912e089c2855cf5a/cucumber-java-4.7.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/4.7.1/98db8e42efeda0ee8d2e96ee9bfb37e6d7cebede/cucumber-core-4.7.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.5.0/f61380c805c48c98305157e2543ca0bfc91583fe/typetools-0.5.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.6/e3fd8ced1f52c7574af952e2e6da0df8df08eb82/httpcore-4.4.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.1/9420ba32c29217b54eebd26ff7f9234d31c3fbb2/hamcrest-2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.2.12/4c83805595b15acf41d71d49e3add7c0e85baaed/jaxb-api-2.2.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-osgi/2.2.10/e05334d55adcdb3dac418c8b1391552da497ac6c/jaxb-osgi-2.2.10.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.apache.sling/org.apache.sling.javax.activation/0.1.0/606ef790ce33d9cd6b892c47cc2a9508efc57698/org.apache.sling.javax.activation-0.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.41/2ecf4aa059427d7186312fd1736afedf7972e7f7/kotlin-stdlib-common-1.3.41.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/gherkin/5.1.0/3bd9e582275159bbbec250199aa78b0a4cd6b5f1/gherkin-5.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/tag-expressions/1.1.1/a5cfcf43577aae5d314af5438459c2af659a1245/tag-expressions-1.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-expressions/7.0.2/db0453bbd9f8db82df1521f80a64aac3d22141d/cucumber-expressions-7.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable/1.1.14/2bc21164cce1bac27714accce510e8bbd2832bed/datatable-1.1.14.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/485de3a253e23f645037828c07f1d7f1af40763a/activation-1.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/emilefrancois/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable-dependencies/1.1.14/fc2df1232d73f6dfe9fb61fce474fbcca8c8872/datatable-dependencies-1.1.14.jar</AuxClasspathEntry>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/CucumberRunner.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/util/WaitDeviceStf.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraSerbuSeruSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKasirLaporanWarungSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKYCSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraSpecialPromoSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraResetPasswordSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraSaldoSayaSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKirimUangSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraPDAMSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraSaranaSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraTagihanListrikSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraVoucherGameSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraTrxListSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraGrosirSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraPulsaSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraTokenListrikSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKontakPelangganSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraBukaEmasSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraVoucherSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/Hooks.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraLoyaltyPointsSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraBPJSSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraDetailTrxSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraLoginSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraTambahSaldoPageSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraForgotPasswordSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKasirCheckoutSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraEvoucherSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKasirTambahBarangSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraHubungiBukalapakSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraSearchBarSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKeuntunganExtraSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraPaketDataSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraSearchCustomerSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraAccountSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraBrandSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraHomeSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraTelkomSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraEsamsatSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraDaftarKontakSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraCheckoutSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraWebViewSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraUbahPasswordSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraBusTicketSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraOTPSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKasirSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraAngsuranKreditSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraProductRecomendationSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraRegistrationSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraAjakTemanWebSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKasirReceiptSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraHubungiBukalapakWebSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraTrainTicketSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraBuktiTransaksiSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraMediaPromosiSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/steps/MitraKasirRiwayatStokSteps.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/model/UserProfile.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/data/APIData.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/data/MitraData.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraAccountPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraBusTicketWebPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraCheckoutPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKeuntunganExtraPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKasirTambahBarangPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraSaranaPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraDevopsPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraVoucherGamePage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraVoucherPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraBuktiTransaksiPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraPulsaPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKasirReceiptPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraTelkomPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKasirCheckoutPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraLoginPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraEVoucherPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraTagihanListrikPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKasirPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraSearchBarPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKontakPelangganPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraSerbuSeruPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraRegistrationPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/OnboardingPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraForgotPasswordPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKasirRiwayatStokPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraTrainTicketWebPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraOTPPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKasirLaporanWarungPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraSpecialPromoPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraPDAMPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraTambahSaldoPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraUbahPasswordPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraDetailTrxPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraProductRecomendationPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/BasePage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKYCPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKasirDetailReceiptPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/ApiCall.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraHubungiBukalapakPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraBPJSPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKasirPaymentPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraAjakTemanWebPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraBrandPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraHomePage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraShoppingCartPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraBukaEmasPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraKirimUangPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraDaftarKontakPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraLoyaltyPointsPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraPaketDataPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraTokenListrikPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraHubungiBukalapakWebPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/LoginPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraEsamsatPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraGrosirPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraTrxListPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraOnBoardingPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraWebView.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraMediaPromosiPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraResetPasswordPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraAngsuranKreditPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraSaldoSayaPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/pages/MitraSearchCustomerPage.java</SrcDir>
+    <SrcDir>/Users/emilefrancois/mitra-android-automation/src/test/java/bukalapak/mitra/MitraBukalapak.java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="1">
+    <MissingClass>bukalapak.mitra.MitraFactory</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Wed, 4 Dec 2019 20:28:44 +0700" total_classes="125" referenced_classes="279" total_bugs="0" total_size="8086" num_packages="7" java_version="1.8.0_231" vm_version="25.231-b11" cpu_seconds="20.66" clock_seconds="6.54" peak_mbytes="237.98" alloc_mbytes="455.50" gc_seconds="0.25">
+    <PackageStats package="bukalapak" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="bukalapak.CucumberRunner" sourceFile="CucumberRunner.java" interface="false" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="bukalapak.mitra" total_bugs="0" total_types="1" total_size="126">
+      <ClassStats class="bukalapak.mitra.MitraBukalapak" sourceFile="MitraBukalapak.java" interface="false" size="126" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="bukalapak.mitra.data" total_bugs="0" total_types="2" total_size="393">
+      <ClassStats class="bukalapak.mitra.data.APIData" sourceFile="APIData.java" interface="false" size="83" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.data.MitraData" sourceFile="MitraData.java" interface="false" size="310" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="bukalapak.mitra.model" total_bugs="0" total_types="1" total_size="89">
+      <ClassStats class="bukalapak.mitra.model.UserProfile" sourceFile="UserProfile.java" interface="false" size="89" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="bukalapak.mitra.pages" total_bugs="0" total_types="63" total_size="4399">
+      <ClassStats class="bukalapak.mitra.pages.ApiCall" sourceFile="ApiCall.java" interface="false" size="166" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.BasePage" sourceFile="BasePage.java" interface="false" size="129" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.LoginPage" sourceFile="LoginPage.java" interface="false" size="48" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraAccountPage" sourceFile="MitraAccountPage.java" interface="false" size="139" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraAjakTemanWebPage" sourceFile="MitraAjakTemanWebPage.java" interface="false" size="152" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraAngsuranKreditPage" sourceFile="MitraAngsuranKreditPage.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraBPJSPage" sourceFile="MitraBPJSPage.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraBrandPage" sourceFile="MitraBrandPage.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraBukaEmasPage" sourceFile="MitraBukaEmasPage.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraBuktiTransaksiPage" sourceFile="MitraBuktiTransaksiPage.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraBusTicketWebPage" sourceFile="MitraBusTicketWebPage.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraCheckoutPage" sourceFile="MitraCheckoutPage.java" interface="false" size="243" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraDaftarKontakPage" sourceFile="MitraDaftarKontakPage.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraDetailTrxPage" sourceFile="MitraDetailTrxPage.java" interface="false" size="269" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraDevopsPage" sourceFile="MitraDevopsPage.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraEVoucherPage" sourceFile="MitraEVoucherPage.java" interface="false" size="430" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraEsamsatPage" sourceFile="MitraEsamsatPage.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraForgotPasswordPage" sourceFile="MitraForgotPasswordPage.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraGrosirPage" sourceFile="MitraGrosirPage.java" interface="false" size="229" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraHomePage" sourceFile="MitraHomePage.java" interface="false" size="279" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraHubungiBukalapakPage" sourceFile="MitraHubungiBukalapakPage.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraHubungiBukalapakWebPage" sourceFile="MitraHubungiBukalapakWebPage.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKYCPage" sourceFile="MitraKYCPage.java" interface="false" size="124" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKasirCheckoutPage" sourceFile="MitraKasirCheckoutPage.java" interface="false" size="55" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKasirDetailReceiptPage" sourceFile="MitraKasirDetailReceiptPage.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKasirLaporanWarungPage" sourceFile="MitraKasirLaporanWarungPage.java" interface="false" size="38" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKasirPage" sourceFile="MitraKasirPage.java" interface="false" size="37" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKasirPaymentPage" sourceFile="MitraKasirPaymentPage.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKasirReceiptPage" sourceFile="MitraKasirReceiptPage.java" interface="false" size="134" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKasirRiwayatStokPage" sourceFile="MitraKasirRiwayatStokPage.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKasirTambahBarangPage" sourceFile="MitraKasirTambahBarangPage.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKeuntunganExtraPage" sourceFile="MitraKeuntunganExtraPage.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKirimUangPage" sourceFile="MitraKirimUangPage.java" interface="false" size="77" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraKontakPelangganPage" sourceFile="MitraKontakPelangganPage.java" interface="false" size="98" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraLoginPage" sourceFile="MitraLoginPage.java" interface="false" size="110" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraLoyaltyPointsPage" sourceFile="MitraLoyaltyPointsPage.java" interface="false" size="65" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraMediaPromosiPage" sourceFile="MitraMediaPromosiPage.java" interface="false" size="43" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraOTPPage" sourceFile="MitraOTPPage.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraOnBoardingPage" sourceFile="MitraOnBoardingPage.java" interface="false" size="51" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraPDAMPage" sourceFile="MitraPDAMPage.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraPaketDataPage" sourceFile="MitraPaketDataPage.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraProductRecomendationPage" sourceFile="MitraProductRecomendationPage.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraPulsaPage" sourceFile="MitraPulsaPage.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraRegistrationPage" sourceFile="MitraRegistrationPage.java" interface="false" size="80" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraResetPasswordPage" sourceFile="MitraResetPasswordPage.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraSaldoSayaPage" sourceFile="MitraSaldoSayaPage.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraSaranaPage" sourceFile="MitraSaranaPage.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraSearchBarPage" sourceFile="MitraSearchBarPage.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraSearchCustomerPage" sourceFile="MitraSearchCustomerPage.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraSerbuSeruPage" sourceFile="MitraSerbuSeruPage.java" interface="false" size="69" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraShoppingCartPage" sourceFile="MitraShoppingCartPage.java" interface="false" size="134" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraSpecialPromoPage" sourceFile="MitraSpecialPromoPage.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraTagihanListrikPage" sourceFile="MitraTagihanListrikPage.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraTambahSaldoPage" sourceFile="MitraTambahSaldoPage.java" interface="false" size="120" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraTelkomPage" sourceFile="MitraTelkomPage.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraTokenListrikPage" sourceFile="MitraTokenListrikPage.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraTrainTicketWebPage" sourceFile="MitraTrainTicketWebPage.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraTrxListPage" sourceFile="MitraTrxListPage.java" interface="false" size="130" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraUbahPasswordPage" sourceFile="MitraUbahPasswordPage.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraVoucherGamePage" sourceFile="MitraVoucherGamePage.java" interface="false" size="73" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraVoucherPage" sourceFile="MitraVoucherPage.java" interface="false" size="58" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.MitraWebView" sourceFile="MitraWebView.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.pages.OnboardingPage" sourceFile="OnboardingPage.java" interface="false" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="bukalapak.mitra.steps" total_bugs="0" total_types="56" total_size="3041">
+      <ClassStats class="bukalapak.mitra.steps.Hooks" sourceFile="Hooks.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraAccountSteps" sourceFile="MitraAccountSteps.java" interface="false" size="101" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraAjakTemanWebSteps" sourceFile="MitraAjakTemanWebSteps.java" interface="false" size="119" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraAngsuranKreditSteps" sourceFile="MitraAngsuranKreditSteps.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraBPJSSteps" sourceFile="MitraBPJSSteps.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraBrandSteps" sourceFile="MitraBrandSteps.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraBukaEmasSteps" sourceFile="MitraBukaEmasSteps.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraBuktiTransaksiSteps" sourceFile="MitraBuktiTransaksiSteps.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraBusTicketSteps" sourceFile="MitraBusTicketSteps.java" interface="false" size="37" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraCheckoutSteps" sourceFile="MitraCheckoutSteps.java" interface="false" size="219" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraDaftarKontakSteps" sourceFile="MitraDaftarKontakSteps.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraDetailTrxSteps" sourceFile="MitraDetailTrxSteps.java" interface="false" size="215" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraEsamsatSteps" sourceFile="MitraEsamsatSteps.java" interface="false" size="44" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraEvoucherSteps" sourceFile="MitraEvoucherSteps.java" interface="false" size="250" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraForgotPasswordSteps" sourceFile="MitraForgotPasswordSteps.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraGrosirSteps" sourceFile="MitraGrosirSteps.java" interface="false" size="154" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraHomeSteps" sourceFile="MitraHomeSteps.java" interface="false" size="245" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraHubungiBukalapakSteps" sourceFile="MitraHubungiBukalapakSteps.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraHubungiBukalapakWebSteps" sourceFile="MitraHubungiBukalapakWebSteps.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKYCSteps" sourceFile="MitraKYCSteps.java" interface="false" size="98" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKasirCheckoutSteps" sourceFile="MitraKasirCheckoutSteps.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKasirLaporanWarungSteps" sourceFile="MitraKasirLaporanWarungSteps.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKasirReceiptSteps" sourceFile="MitraKasirReceiptSteps.java" interface="false" size="59" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKasirRiwayatStokSteps" sourceFile="MitraKasirRiwayatStokSteps.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKasirSteps" sourceFile="MitraKasirSteps.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKasirTambahBarangSteps" sourceFile="MitraKasirTambahBarangSteps.java" interface="false" size="45" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKeuntunganExtraSteps" sourceFile="MitraKeuntunganExtraSteps.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKirimUangSteps" sourceFile="MitraKirimUangSteps.java" interface="false" size="64" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraKontakPelangganSteps" sourceFile="MitraKontakPelangganSteps.java" interface="false" size="44" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraLoginSteps" sourceFile="MitraLoginSteps.java" interface="false" size="190" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraLoyaltyPointsSteps" sourceFile="MitraLoyaltyPointsSteps.java" interface="false" size="63" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraMediaPromosiSteps" sourceFile="MitraMediaPromosiSteps.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraOTPSteps" sourceFile="MitraOTPSteps.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraPDAMSteps" sourceFile="MitraPDAMSteps.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraPaketDataSteps" sourceFile="MitraPaketDataSteps.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraProductRecomendationSteps" sourceFile="MitraProductRecomendationSteps.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraPulsaSteps" sourceFile="MitraPulsaSteps.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraRegistrationSteps" sourceFile="MitraRegistrationSteps.java" interface="false" size="82" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraResetPasswordSteps" sourceFile="MitraResetPasswordSteps.java" interface="false" size="45" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraSaldoSayaSteps" sourceFile="MitraSaldoSayaSteps.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraSaranaSteps" sourceFile="MitraSaranaSteps.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraSearchBarSteps" sourceFile="MitraSearchBarSteps.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraSearchCustomerSteps" sourceFile="MitraSearchCustomerSteps.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraSerbuSeruSteps" sourceFile="MitraSerbuSeruSteps.java" interface="false" size="62" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraSpecialPromoSteps" sourceFile="MitraSpecialPromoSteps.java" interface="false" size="49" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraSteps" sourceFile="MitraSteps.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraTagihanListrikSteps" sourceFile="MitraTagihanListrikSteps.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraTambahSaldoPageSteps" sourceFile="MitraTambahSaldoPageSteps.java" interface="false" size="67" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraTelkomSteps" sourceFile="MitraTelkomSteps.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraTokenListrikSteps" sourceFile="MitraTokenListrikSteps.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraTrainTicketSteps" sourceFile="MitraTrainTicketSteps.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraTrxListSteps" sourceFile="MitraTrxListSteps.java" interface="false" size="100" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraUbahPasswordSteps" sourceFile="MitraUbahPasswordSteps.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraVoucherGameSteps" sourceFile="MitraVoucherGameSteps.java" interface="false" size="78" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraVoucherSteps" sourceFile="MitraVoucherSteps.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="bukalapak.mitra.steps.MitraWebViewSteps" sourceFile="MitraWebViewSteps.java" interface="false" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="bukalapak.mitra.util" total_bugs="0" total_types="1" total_size="35">
+      <ClassStats class="bukalapak.mitra.util.WaitDeviceStf" sourceFile="WaitDeviceStf.java" interface="false" size="35" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="454" invocations="1250" avgMicrosecondsPerInvocation="363" maxMicrosecondsPerInvocation="22818" standardDeviationMircosecondsPerInvocation="1029"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="313" invocations="1797" avgMicrosecondsPerInvocation="174" maxMicrosecondsPerInvocation="13530" standardDeviationMircosecondsPerInvocation="505"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="306" invocations="1797" avgMicrosecondsPerInvocation="170" maxMicrosecondsPerInvocation="11971" standardDeviationMircosecondsPerInvocation="459"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="287" invocations="1797" avgMicrosecondsPerInvocation="159" maxMicrosecondsPerInvocation="18236" standardDeviationMircosecondsPerInvocation="608"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="273" invocations="1797" avgMicrosecondsPerInvocation="152" maxMicrosecondsPerInvocation="15893" standardDeviationMircosecondsPerInvocation="611"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="237" invocations="1802" avgMicrosecondsPerInvocation="131" maxMicrosecondsPerInvocation="15175" standardDeviationMircosecondsPerInvocation="545"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="226" invocations="1811" avgMicrosecondsPerInvocation="124" maxMicrosecondsPerInvocation="18658" standardDeviationMircosecondsPerInvocation="630"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="206" invocations="279" avgMicrosecondsPerInvocation="741" maxMicrosecondsPerInvocation="19269" standardDeviationMircosecondsPerInvocation="1744"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="182" invocations="279" avgMicrosecondsPerInvocation="655" maxMicrosecondsPerInvocation="10995" standardDeviationMircosecondsPerInvocation="1352"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="160" invocations="1255" avgMicrosecondsPerInvocation="128" maxMicrosecondsPerInvocation="2240" standardDeviationMircosecondsPerInvocation="177"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueRangeAnalysisFactory" totalMilliseconds="144" invocations="1797" avgMicrosecondsPerInvocation="80" maxMicrosecondsPerInvocation="123469" standardDeviationMircosecondsPerInvocation="2913"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="142" invocations="1661" avgMicrosecondsPerInvocation="85" maxMicrosecondsPerInvocation="4677" standardDeviationMircosecondsPerInvocation="198"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="123" invocations="2140" avgMicrosecondsPerInvocation="57" maxMicrosecondsPerInvocation="1840" standardDeviationMircosecondsPerInvocation="127"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="106" invocations="1207" avgMicrosecondsPerInvocation="88" maxMicrosecondsPerInvocation="21955" standardDeviationMircosecondsPerInvocation="652"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="102" invocations="1797" avgMicrosecondsPerInvocation="56" maxMicrosecondsPerInvocation="44321" standardDeviationMircosecondsPerInvocation="1049"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="100" invocations="371" avgMicrosecondsPerInvocation="271" maxMicrosecondsPerInvocation="21767" standardDeviationMircosecondsPerInvocation="1450"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="73" invocations="1797" avgMicrosecondsPerInvocation="40" maxMicrosecondsPerInvocation="2238" standardDeviationMircosecondsPerInvocation="119"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="70" invocations="125" avgMicrosecondsPerInvocation="564" maxMicrosecondsPerInvocation="4524" standardDeviationMircosecondsPerInvocation="728"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="62" invocations="279" avgMicrosecondsPerInvocation="225" maxMicrosecondsPerInvocation="6353" standardDeviationMircosecondsPerInvocation="619"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="57" invocations="125" avgMicrosecondsPerInvocation="459" maxMicrosecondsPerInvocation="5261" standardDeviationMircosecondsPerInvocation="791"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindDeadLocalStores" totalMilliseconds="54" invocations="125" avgMicrosecondsPerInvocation="434" maxMicrosecondsPerInvocation="11645" standardDeviationMircosecondsPerInvocation="1408"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="53" invocations="279" avgMicrosecondsPerInvocation="192" maxMicrosecondsPerInvocation="5001" standardDeviationMircosecondsPerInvocation="508"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison" totalMilliseconds="51" invocations="125" avgMicrosecondsPerInvocation="411" maxMicrosecondsPerInvocation="3320" standardDeviationMircosecondsPerInvocation="561"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="51" invocations="279" avgMicrosecondsPerInvocation="183" maxMicrosecondsPerInvocation="2978" standardDeviationMircosecondsPerInvocation="308"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref" totalMilliseconds="50" invocations="125" avgMicrosecondsPerInvocation="404" maxMicrosecondsPerInvocation="3421" standardDeviationMircosecondsPerInvocation="600"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="48" invocations="279" avgMicrosecondsPerInvocation="174" maxMicrosecondsPerInvocation="3503" standardDeviationMircosecondsPerInvocation="415"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="47" invocations="125" avgMicrosecondsPerInvocation="382" maxMicrosecondsPerInvocation="2372" standardDeviationMircosecondsPerInvocation="444"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref$CheckCallSitesAndReturnInstructions" totalMilliseconds="47" invocations="1797" avgMicrosecondsPerInvocation="26" maxMicrosecondsPerInvocation="3061" standardDeviationMircosecondsPerInvocation="89"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DefaultEncodingDetector" totalMilliseconds="47" invocations="125" avgMicrosecondsPerInvocation="380" maxMicrosecondsPerInvocation="5110" standardDeviationMircosecondsPerInvocation="961"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="47" invocations="125" avgMicrosecondsPerInvocation="376" maxMicrosecondsPerInvocation="2819" standardDeviationMircosecondsPerInvocation="482"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.RuntimeExceptionCapture" totalMilliseconds="41" invocations="125" avgMicrosecondsPerInvocation="329" maxMicrosecondsPerInvocation="3204" standardDeviationMircosecondsPerInvocation="447"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="39" invocations="279" avgMicrosecondsPerInvocation="143" maxMicrosecondsPerInvocation="4240" standardDeviationMircosecondsPerInvocation="405"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="39" invocations="279" avgMicrosecondsPerInvocation="140" maxMicrosecondsPerInvocation="11030" standardDeviationMircosecondsPerInvocation="686"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.MethodReturnCheck" totalMilliseconds="38" invocations="125" avgMicrosecondsPerInvocation="305" maxMicrosecondsPerInvocation="3005" standardDeviationMircosecondsPerInvocation="430"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindSelfComparison" totalMilliseconds="37" invocations="125" avgMicrosecondsPerInvocation="301" maxMicrosecondsPerInvocation="3209" standardDeviationMircosecondsPerInvocation="456"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="37" invocations="1157" avgMicrosecondsPerInvocation="32" maxMicrosecondsPerInvocation="1380" standardDeviationMircosecondsPerInvocation="78"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUseOfNonSerializableValue" totalMilliseconds="36" invocations="125" avgMicrosecondsPerInvocation="288" maxMicrosecondsPerInvocation="2941" standardDeviationMircosecondsPerInvocation="420"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindPuzzlers" totalMilliseconds="34" invocations="125" avgMicrosecondsPerInvocation="276" maxMicrosecondsPerInvocation="1761" standardDeviationMircosecondsPerInvocation="314"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
